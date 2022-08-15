@@ -5,7 +5,7 @@
 <body>
 
 <h2>I LOVE YOU!!!!!!!!!!</h2>
-<img src="IMG-2883.jpg" alt="Trulli" width="500" height="500">
+<img src="IMG-2883.jpg" alt="Trulli" width="500" height="700">
 
 </body>
 </html>
