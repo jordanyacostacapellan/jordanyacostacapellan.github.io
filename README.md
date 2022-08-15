@@ -1,12 +1,10 @@
 #### Kate, you're the most beautiful girl I have ever seen!
 
-I LOVE YOU!!!!!!!!!!   
-
 <!DOCTYPE html>
 <html>
 <body>
 
-<h2>HTML Image</h2>
+<h2>I LOVE YOU!!!!!!!!!!</h2>
 <img src="IMG-2883.jpg" alt="Trulli" width="500" height="333">
 
 </body>
