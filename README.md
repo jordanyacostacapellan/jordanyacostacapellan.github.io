@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<img src="IMG_5507.jpg" width="700" height="900">
+<img src="IMG-5507.jpg" width="700" height="900">
 
 </body>
 </html>
