@@ -10,11 +10,13 @@
 ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡
  ˗ˋˏ ♡ ˎˊ˗ ˗ˋˏ ♡ ˎˊ˗ ˗ˋˏ ♡
  
- Daniboy gets to city at // 8 am 
- K8 gets to city at // 9 am
- Dani and K8 walk around time square/k town + find scarf fuy // 9-11 am
- Koran corn dog + food gallery // 11 am 
- back to campus // 12:30
- cuddle // 12:30-3
- natural art museum // 3:30
- Leave city // 5 pm 
+ <Daniboy gets to city at // 8 am>
+ 
+ <K8 gets to city at // 9 am>
+ 
+ <Dani and K8 walk around time square/k town + find scarf fuy // 9-11 am>
+ <Koran corn dog + food gallery // 11 am> 
+ <back to campus // 12:30>
+ <cuddle // 12:30-3>
+ <natural art museum // 3:30>
+ <Leave city // 5 pm> 
