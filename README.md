@@ -20,11 +20,11 @@
   
 <dt>Koran corn dog + food gallery // 11 am</dt>
 
-<dt>back to campus // 12:30</dt>
+<dt>back to campus // 12:30 pm</dt>
    
-<dt>cuddle // 12:30-3</dt>
+<dt>cuddle // 12:30-3 pm</dt>
   
-<dt>natural art museum // 3:30</dt>
+<dt>natural art museum // 3:30 pm</dt>
   
 <dt>Leave city // 5 pm</dt>
   
