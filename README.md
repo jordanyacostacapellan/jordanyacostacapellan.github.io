@@ -16,7 +16,7 @@
  
 <dt>K8 gets to city at // 9 am</dt>
 
-<dt>Dani and K8 walk around time square/k town + find scarf guy // 9-11 am</dt>
+<dt>Dani and K8 walk around time square/k town + warby + find scarf guy // 9-11 am</dt>
   
 <dt>Koran corn dog + food gallery // 11 am</dt>
 
