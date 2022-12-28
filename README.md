@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<img src="IMG-2883.jpg" alt="Trulli" width="700" height="900">
+<img src="IMG-5507.jpg" alt="Trulli" width="700" height="900">
 
 </body>
 </html>
@@ -10,26 +10,11 @@
 ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡
  ˗ˋˏ ♡ ˎˊ˗ ˗ˋˏ ♡ ˎˊ˗ ˗ˋˏ ♡
  
- 
- Leave the island at 12:30
-John Jay
- - Blue Bin
-
-3 - Unpack/chill
-5 - Dinner
-8 - Kate’s back
--30 min shower
-- show ;)
-- 9 notebook
-- facial
-- cuddle
-- ? 
-
-—-----------------------------------
-
-10-12 she’s back!
-
- Bake at night!
- 
- scary movie!
-
+ Daniboy gets to city at // 8 am 
+ K8 gets to city at // 9 am
+ Dani and K8 walk around time square/k town + find scarf fuy // 9-11 am
+ Koran corn dog + food gallery // 11 am 
+ back to campus // 12:30
+ cuddle // 12:30-3
+ natural art museum // 3:30
+ Leave city // 5 pm 
