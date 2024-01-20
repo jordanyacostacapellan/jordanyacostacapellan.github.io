@@ -66,7 +66,7 @@
 
 <footer>
     <div class="container">
-        <p>&copy; 2024 Your Name</p>
+        <p>&copy; 2024 Jordany Acosta Capellan</p>
     </div>
 </footer>
 
