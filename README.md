@@ -35,7 +35,7 @@
 <header>
     <div class="container">
         <nav>
-            <a href="#project">Project</a>
+            <a href="#projects">Project</a>
             <a href="#about">About Me</a>
             <a href="#contact">Contact Me</a>
         </nav>
