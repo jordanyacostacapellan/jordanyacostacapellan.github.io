@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<"My Personal Website">
 <html>
 <head>
     <title>My Personal Website</title>
