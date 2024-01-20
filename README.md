@@ -1,31 +1,75 @@
-<h2>Kate, you're the most beautiful girl I have ever seen!</h2> 
+<!DOCTYPE html>
 <html>
+<head>
+    <title>My Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .section {
+            margin: 50px 0;
+        }
+
+        header, footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+
+        nav a {
+            margin: 0 15px;
+            color: white;
+            text-decoration: none;
+        }
+    </style>
+</head>
 <body>
 
-<img src="IMG-5507.jpg" width="800" height="800">
+<header>
+    <div class="container">
+        <nav>
+            <a href="#project">Project</a>
+            <a href="#about">About Me</a>
+            <a href="#contact">Contact Me</a>
+        </nav>
+    </div>
+</header>
+
+<div class="section" id="project">
+    <div class="container">
+        <h2>Project</h2>
+        <p>Description of your project here.</p>
+    </div>
+</div>
+
+<div class="section" id="about">
+    <div class="container">
+        <h2>About Me</h2>
+        <p>A brief description about yourself.</p>
+    </div>
+</div>
+
+<div class="section" id="contact">
+    <div class="container">
+        <h2>Contact Me</h2>
+        <p>Email: your.email@example.com</p>
+        <p>Phone: 123-456-7890</p>
+    </div>
+</div>
+
+<footer>
+    <div class="container">
+        <p>&copy; 2024 Your Name</p>
+    </div>
+</footer>
 
 </body>
 </html>
-<h2>I LOVE YOU!!!!!!!!!!</h2>
-ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡ɞ˚˚ʚ♡
 
-
- <dl> 
- 
-<dt>Daniboy gets to city at // 8 am</dt>
- 
-<dt>K8 gets to city at // 9 am</dt>
-
-<dt>Dani and K8 walk around time square/k town + warby + find scarf guy // 9-11 am</dt>
-  
-<dt>Koran corn dog + food gallery // 11 am</dt>
-
-<dt>Back to campus // 12:30 pm</dt>
-   
-<dt>Cuddle // 12:30-3 pm</dt>
-  
-<dt>Latural art museum // 3:30 pm</dt>
-  
-<dt>Leave city // 5 pm</dt>
-  
- </dl>
