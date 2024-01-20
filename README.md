@@ -59,8 +59,8 @@
 <div class="section" id="contact">
     <div class="container">
         <h2>Contact Me</h2>
-        <p>Email: your.email@example.com</p>
-        <p>Phone: 123-456-7890</p>
+        <p>Email: ja3568@columbia.edu</p>
+        <p>Phone: 516-523-0533</p>
     </div>
 </div>
 
