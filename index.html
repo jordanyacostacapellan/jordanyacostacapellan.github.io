@@ -22,7 +22,9 @@
     </header>
 
     <section id="about" class="info-section">
+        <div class="background-image"></div>
         <h2>About Me</h2>
+        <img src="gitprofile.jpg" alt="Jordany Acosta Capellan" class="profile-image">
         <p>I am currently pursuing a degree in Electrical Engineering at Columbia University. I have a strong passion for learning and working on challenging engineering projects. Through my coursework and hands-on experiences, I have developed skills in circuit design, power systems, embedded systems, and more.</p>
     </section>
 
@@ -44,11 +46,11 @@
             <p>Description of Software Development Projects.</p>
             <a href="https://github.com/your-username/project2">View on GitHub</a>
         </div>
-        <!-- Add more projects as needed -->
     </section>
 
     <section id="contact" class="info-section">
         <h2>Contact Me</h2>
+        <img src="gitprofile.jpg" alt="Jordany Acosta Capellan" class="profile-image">
         <p>You can reach me at <a href="mailto:ja3568@columbia.edu">ja3568@columbia.edu</a>.</p>
     </section>
 
@@ -57,30 +59,5 @@
     </footer>
 
     <script src="style.js"></script>
-    <script>
-        // Show about me section by default
-        showSection('about');
-        
-        // Smooth scrolling for anchor links
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function (e) {
-                e.preventDefault();
-
-                document.querySelector(this.getAttribute('href')).scrollIntoView({
-                    behavior: 'smooth'
-                });
-            });
-        });
-
-        // Function to show/hide sections
-        function showSection(sectionId) {
-            // Hide all sections
-            document.querySelectorAll('section').forEach(section => {
-                section.style.display = 'none';
-            });
-            // Show the selected section
-            document.getElementById(sectionId).style.display = 'block';
-        }
-    </script>
 </body>
 </html>
