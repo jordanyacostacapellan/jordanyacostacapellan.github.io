@@ -15,18 +15,18 @@
             <ul>
                 <li><a href="#" onclick="showSection('about')">About Me</a></li>
                 <li><a href="#" onclick="showSection('resume')">Resume</a></li>
-                <li><a href="#" onclick="showSection('ee-projects')">Electrical Projects</a></li>
-                <li><a href="#" onclick="showSection('mech-projects')">Mechanical Projects</a></li>
-                <li><a href="#" onclick="showSection('software-projects')">Software Development Projects</a></li>
+                <li><a href="#" onclick="showSection('projects')">Projects</a></li>
                 <li><a href="#" onclick="showSection('contact')">Contact Me</a></li>
             </ul>
         </nav>
     </header>
 
     <section id="home" class="homepage">
-        <div class="EE homepage.jpg"></div>
-        <h2>Welcome to My Portfolio!</h2>
-        <p>This is the homepage of Jordany Acosta Capellan's portfolio. Explore the sections below to learn more about me and my projects.</p>
+        <div class="background-image"></div>
+        <div class="content">
+            <h2>Welcome to My Portfolio!</h2>
+            <p>This is the homepage of Jordany Acosta Capellan's portfolio. Explore the sections below to learn more about me and my projects.</p>
+        </div>
     </section>
 
     <section id="about" class="info-section">
@@ -39,19 +39,19 @@
         <p>Here you can find my resume. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin elit ut consectetur suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
     </section>
 
-    <section id="ee-projects" class="project-section">
-        <h2>Electrical Projects</h2>
-        <p>Explore my electrical engineering projects here. Fusce sollicitudin elit ut consectetur suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-    </section>
-
-    <section id="mech-projects" class="project-section">
-        <h2>Mechanical Projects</h2>
-        <p>Check out my mechanical engineering projects here. Ut mollis, justo at pulvinar viverra, ex mi dictum lectus, eget consectetur purus nunc eu justo.</p>
-    </section>
-
-    <section id="software-projects" class="project-section">
-        <h2>Software Development Projects</h2>
-        <p>Discover my software development projects here. Fusce sollicitudin elit ut consectetur suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+    <section id="projects" class="project-section">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project Title 1</h3>
+            <p>Description of Project 1.</p>
+            <a href="https://github.com/your-username/project1">View on GitHub</a>
+        </div>
+        <div class="project">
+            <h3>Project Title 2</h3>
+            <p>Description of Project 2.</p>
+            <a href="https://github.com/your-username/project2">View on GitHub</a>
+        </div>
+        <!-- Add more projects as needed -->
     </section>
 
     <section id="contact" class="info-section">
@@ -64,5 +64,27 @@
     </footer>
 
     <script src="style.js"></script>
+    <script>
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Function to show/hide sections
+        function showSection(sectionId) {
+            // Hide all sections
+            document.querySelectorAll('section').forEach(section => {
+                section.style.display = 'none';
+            });
+            // Show the selected section
+            document.getElementById(sectionId).style.display = 'block';
+        }
+    </script>
 </body>
 </html>
