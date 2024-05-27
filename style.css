@@ -87,19 +87,5 @@ section {
 .skills li {
     width: calc(50% - 1rem);
     margin-bottom: 1rem;
-    padding: 0.5rem;
-    background: #f5f5f5;
-    border-radius: 5px;
-}
+    padding: 0
 
-.contact p {
-    margin-top: 1rem;
-    color: #666;
-}
-
-footer {
-    text-align: center;
-    padding: 1.5rem 0;
-    background: #333;
-    color: #fff;
-}
