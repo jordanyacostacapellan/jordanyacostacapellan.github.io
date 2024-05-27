@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: #3498db; /* Baby blue color */
     color: #fff;
     padding: 1.5rem 0;
     text-align: center;
@@ -42,10 +42,11 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-    color: #ffc107;
+    color: #ffd700; /* Yellow color on hover */
 }
 
 section {
+    display: none; /* Hide all sections initially */
     padding: 4rem 2rem;
     margin: 4rem 0;
     background: #fff;
@@ -63,7 +64,7 @@ section p {
 footer {
     text-align: center;
     padding: 1.5rem 0;
-    background: #333;
+    background: #3498db; /* Baby blue color */
     color: #fff;
 }
 
