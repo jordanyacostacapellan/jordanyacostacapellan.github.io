@@ -52,40 +52,61 @@ section {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
-.project {
+section h2 {
     margin-bottom: 2rem;
 }
 
-.project h3 {
-    margin: 0;
-    font-size: 1.8rem;
-    color: #333;
-}
-
-.project p {
-    margin-top: 1rem;
+section p {
     color: #666;
 }
 
-.project a {
-    display: inline-block;
-    margin-top: 1rem;
+footer {
+    text-align: center;
+    padding: 1.5rem 0;
+    background: #333;
+    color: #fff;
+}
+
+/* Homepage Styles */
+.homepage {
+    background: url('homepage-background.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 10rem 2rem;
+}
+
+.homepage h2 {
+    margin-bottom: 2rem;
+    font-size: 2.5rem;
+}
+
+.homepage p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Info Section Styles */
+.info-section {
+    text-align: center;
+}
+
+.info-section h2 {
+    font-size: 2rem;
+}
+
+/* Project Section Styles */
+.project-section {
+    text-align: center;
+}
+
+.project-section h2 {
+    font-size: 2rem;
     color: #007bff;
-    text-decoration: none;
 }
 
-.project a:hover {
-    text-decoration: underline;
+.project-section p {
+    max-width: 800px;
+    margin: 0 auto;
 }
-
-.skills {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.skills li {
-    width: calc(50% - 1rem);
-    margin-bottom: 1rem;
-    padding: 0
-
