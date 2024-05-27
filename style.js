@@ -1,15 +1,14 @@
-// Smooth scrolling for anchor links
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-            behavior: 'smooth'
-        });
-    });
-});
-
 // Function to show/hide sections
 function showSection(sectionId) {
     // Hide all sections
-    document.querySelectorAll('section').
+    document.querySelectorAll('section').forEach(section => {
+        section.style.display = 'none';
+    });
+    // Show the selected section
+    document.getElementById(sectionId).style.display = 'block';
+}
+
+// Show about me section by default
+document.addEventListener('DOMContentLoaded', function() {
+    showSection('about');
+});
