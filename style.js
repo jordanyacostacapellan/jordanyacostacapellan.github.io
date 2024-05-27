@@ -8,3 +8,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         });
     });
 });
+
+// Function to show/hide sections
+function showSection(sectionId) {
+    // Hide all sections
+    document.querySelectorAll('section').
