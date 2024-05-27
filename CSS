@@ -4,6 +4,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    background-color: #f4f4f4;
 }
 
 header {
@@ -36,8 +37,16 @@ header nav ul li a {
 section {
     padding: 2rem;
     margin: 2rem 0;
-    background: #f4f4f4;
+    background: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project {
+    margin-bottom: 1.5rem;
+}
+
+.project h3 {
+    margin: 0;
 }
 
 footer {
